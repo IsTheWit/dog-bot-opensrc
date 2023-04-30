@@ -1,0 +1,22 @@
+{
+  "Essential Commands" : {
+    "dog pic" : "get a cute doggo pic",
+    "dog gif" : "get a cute doggo gif",
+	"dog feed" : "feed doggo",
+	"dog play" : "play with doggo",
+	"dog sleep" : "put doggo to sleep"
+  },
+  "Basic Commands" : {
+    "/speak [msg] [picker] [font]" : "make doggo say anything you like",
+    "dog help" : "shows this command, duh",
+    "dog hi" : "say hi to dog bot"
+  },
+  "Other Commands" : {
+    "dog ping" : "checks latency on bot",
+	"/generate [msg]" : "go to https://www.demirramon.com/help/undertale_text_box_generator_dev for characters/options",
+	"dog gun" : "america (Suggested by Paxton)",
+	"dog chatroulette" : "anonymous chat roulette, dm the bot to chat if people actually are in queue (A1Asriel suggested and helped code this!)",
+	"dog middle" : "FUCK YOU",
+	"/uwuify [msg]" : "noticuwu muwu suwunpai uwu"
+  }
+}

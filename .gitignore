@@ -1,0 +1,5 @@
+token.txt
+dog-edited.jpg
+logs/*
+__pycache__/*
+*.log
