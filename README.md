@@ -1,9 +1,9 @@
-# dog-bot
+# dog-bot-opensrc
 A bot me and [Alt](https://github.com/A1Asriel) made.
 
 # Installation
 
-First, download the source code, and unzip the `dog-bot.zip` file. Open up a Command Prompt, navigate to the dog-bot folder, and run `pip install -r requirements.txt`.
+First, download the source code, and unzip the `dog-bot-opensrc.zip` file. Open up a Command Prompt, navigate to the dog-bot folder, and run `pip install -r requirements.txt`.
 Then, create a text document called `token.txt` in the same folder as `main.py`. Inside the text file, put in your bot token.
 
 ## Opening the bot
@@ -22,4 +22,4 @@ Launch the `main.py` file and it should work.
 Type 'dog help' in chat to open up a help menu.
 
 ## I want to report a bug/error!
-Click [here](https://github.com/IsTheWit/dog-bot/issues) to report any issues you may have with the bot.
+Click [here](https://github.com/IsTheWit/dog-bot-opensrc/issues) to report any issues you may have with the bot.
